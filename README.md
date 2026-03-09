@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Soares de Oliveira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FrontEnd`**
 
 Meu nome é Lucas Soares de Oliveira tenho 18 anos, natural de Pernambuco,moro em Jaboatão dos Guararapes e faço o curso de Ciências da Computação na Universidade Tiradentes(Unit).
 
